@@ -1,0 +1,14 @@
+{
+  "name": "cardapio",
+  "version": "1.0.0",
+  "description": "Projeto de Cardápio",
+  "main": "app.py",
+  "scripts": {
+    "start": "python3 app.py"
+  },
+  "dependencies": {
+    "flask": "^2.0.2",
+    "requests": "^2.26.0",
+    "beautifulsoup4": "^4.10.0"
+  }
+}
